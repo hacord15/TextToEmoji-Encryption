@@ -21,3 +21,11 @@ This is a simple web application that allows users to encrypt text into emojis a
    - Paste the emoji message.
    - Enter the password used during encryption.
    - Click "Decrypt" to convert emojis back into the original text.
+
+## Tech Used
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Check Live Preview Here
+
+<a href="https://hacord15.github.io/TextToEmoji-Encryption/" target="_blank"><img src="https://www.animatedimages.org/data/media/1096/animated-click-here-sign-and-button-image-0042.gif" /></a>
